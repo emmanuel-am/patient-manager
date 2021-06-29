@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/patient-manager/static/css/main.6f7657ca.chunk.css",
+    "main.js": "/patient-manager/static/js/main.a0270bac.chunk.js",
+    "main.js.map": "/patient-manager/static/js/main.a0270bac.chunk.js.map",
+    "runtime-main.js": "/patient-manager/static/js/runtime-main.13576cc0.js",
+    "runtime-main.js.map": "/patient-manager/static/js/runtime-main.13576cc0.js.map",
+    "static/js/2.e0ca3766.chunk.js": "/patient-manager/static/js/2.e0ca3766.chunk.js",
+    "static/js/2.e0ca3766.chunk.js.map": "/patient-manager/static/js/2.e0ca3766.chunk.js.map",
+    "index.html": "/patient-manager/index.html",
+    "precache-manifest.043af77c52f1c09e0f0840eb7a1df8ca.js": "/patient-manager/precache-manifest.043af77c52f1c09e0f0840eb7a1df8ca.js",
+    "service-worker.js": "/patient-manager/service-worker.js",
+    "static/css/main.6f7657ca.chunk.css.map": "/patient-manager/static/css/main.6f7657ca.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.13576cc0.js",
+    "static/js/2.e0ca3766.chunk.js",
+    "static/css/main.6f7657ca.chunk.css",
+    "static/js/main.a0270bac.chunk.js"
+  ]
+}
